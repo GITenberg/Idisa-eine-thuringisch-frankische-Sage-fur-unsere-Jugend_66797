@@ -5,6 +5,9 @@ contributor:
     agent_name: Scheibe, Wilhelm
     gutenberg_agent_id: '53968'
     url: http://www.gutenberg.org/2009/agents/53968
+covers:
+- cover_type: archival
+  image_path: 66797-h/images/cover.jpg
 creator:
   author:
     agent_name: Langbein, Heinrich
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '53967'
     url: http://www.gutenberg.org/2009/agents/53967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66797#Idisa-eine-thuringisch-frankische-Sage-fur-unsere-Jugend
 gutenberg_issued: '2021-11-23'
 identifiers:
   gutenberg: '66797'
